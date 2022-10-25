@@ -1,0 +1,18 @@
+{
+    "user_status_ban" : {
+        "EN" : "Your account has been suspended.",
+        "TH" : "บัญชีของคุณถูกระงับการใช้งาน"
+    },
+    "user_status_ban_desc" : {
+        "EN" : "This is because your report has been verified to be untrue.",
+        "TH" : "เนื่องจากการายงานของคุณได้รับการตรวจสอบแล้วว่าเป็นเท็จ"
+    },
+    "user_status_unban" : {
+        "EN" : "Your account is back to normal.",
+        "TH" : "บัญชีของคุณกลับมาใช้งานได้ปกติแล้ว"
+    },
+    "user_status_unban_desc" : {
+        "EN" : "This is because the moderators have determined that your account should be unblocked.",
+        "TH" : "เนื่องจากทางผู้ดูแลได้พิจารณาว่าควรปลดการระงับบัญชีของคุณ"
+    }
+}

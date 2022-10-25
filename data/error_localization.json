@@ -1,0 +1,44 @@
+{
+    "login_error_01" : {
+        "EN" : "This user is already login",
+        "TH" : "บัญชีนี้เข้าสู่ระบบแล้ว"
+    },
+    "login_error_02" : {
+        "EN" : "Username or Password are wrong",
+        "TH" : "ชื่อบัญชีหรือรหัสผ่านไม่ถูกต้อง"
+    },
+    "login_error_03" : {
+        "EN" : "Must be a leader role to get the Data",
+        "TH" : "ต้องเป็นอาสาสมัครในระดับหัวหน้าเท่านั้นที่เข้าถึงข้อมูลได้"
+    },
+    "login_error_04" : {
+        "EN" : "This User is banned",
+        "TH" : "บัญชีนี้ถูกระงับการใช้งาน"
+    },
+    "report_error_01" : {
+        "EN" : "Report is not Found",
+        "TH" : "ไม่พบรายงาน"
+    },
+    "report_error_02" : {
+        "EN" : "Another volunteer has recived report",
+        "TH" : "มีออาสาสทัครดูแลรายงานนี้แล้ว"
+    },
+    "changepass_error_01" : {
+        "EN" : "Invalid Old password",
+        "TH" : "รหัสผ่านเดิมไม่ถูกต้อง"
+    },
+    "regis_error_01" : {
+        "EN" : "Username Personalid or Phone Number is already use",
+        "TH" : "ชื่อบัญชี เลขบัตรประชาชน หรือ เบอร์โทรศัพท์มีอยู่ในระบบแล้ว"
+    },
+    "regis_error_02" : {
+        "EN" : "This organizatiion has aleady existed",
+        "TH" : "มีองค์กรนี้อยู่ในระบบแล้ว"
+    },
+    "req_error_01" : {
+        "EN" : "There was a problem sending the data. Please try again.",
+        "TH" : "เกิดปัญหาในการส่งข้อมูล กรุณาลองใหม่อีกครั้ง"
+    }
+
+
+}
