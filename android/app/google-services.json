@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50391007389",
+    "project_id": "wealert-59dcf",
+    "storage_bucket": "wealert-59dcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50391007389:android:43419c54cbf5e208bd1474",
+        "android_client_info": {
+          "package_name": "com.wealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50391007389-kt5a23tgsuidi7cc94denr943ea97psb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsYvF_BDtOqLTM9qIHMU6OADmX5LkKVqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50391007389-kt5a23tgsuidi7cc94denr943ea97psb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
